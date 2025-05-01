@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+    "name": "GitHub Sidebar Button",
+    "version": "2.6",
+    "description": "Sidebar with a button that opens GitHub.",
+    "permissions": [
+      "tabs"
+    ],
+    "icons": {
+      "48": "github-48.png"
+    },
+    "sidebar_action": {
+      "default_title": "GitHub Sidebar",
+      "default_panel": "main.html",
+      "default_icon": "github-48.png"
+    }
+  }
