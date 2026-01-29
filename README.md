@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/github/license/Neefko/githubButtonExtension)
 ![GitHub stars](https://img.shields.io/github/stars/Neefko/githubButtonExtension?style=social)
 
-**githubButtonExtension** — простое браузерное расширение для Chrome/Edge, которое добавляет полезные кнопки в интерфейс GitHub для ускорения навигации.
+**githubButtonExtension** — простое браузерное расширение для Firefox, которое добавляет полезные кнопки в интерфейс GitHub для ускорения навигации.
 
 ---
 
@@ -29,16 +29,7 @@
 
 ## 📦 Установка
 
-1. Клонируй репозиторий:  
-git clone https://github.com/Neefko/githubButtonExtension.git  
-
-2. Открой `chrome://extensions/` или `edge://extensions/`.  
-
-3. Включи режим разработчика.  
-
-4. Нажми **Load unpacked / Загрузить распакованное**.  
-
-5. Выбери папку с файлом `manifest.json`.  
+https://addons.mozilla.org/ru/firefox/addon/github-sidebar-button/
 
 ---
 
@@ -68,7 +59,7 @@ githubButtonExtension/
 
 - JavaScript  
 - HTML/CSS  
-- Chrome Extension API  
+- Firefox Extension API  
 
 ---
 
